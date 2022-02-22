@@ -25,7 +25,7 @@ const PostCreate = () => {
             className="form-control" 
           />
         </div>
-        <button type="button" className="btn btn-primary">Submit</button>
+        <button type="submit" className="btn btn-primary">Submit</button>
       </form>
     </div>
   )
